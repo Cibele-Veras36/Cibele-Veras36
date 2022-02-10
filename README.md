@@ -1,7 +1,7 @@
 ### Olá! eu sou a Cibele Veras.
 
-- 🔭 Hoje trabalho com teste de software (QA)
-- 🌱 Estudando framewors,ferramentas,metodologias de teste de sorfware automatizado e manual.
+- 🔭 Hoje trabalho com teste de software (QA).
+- 🌱 Estudando Analise e desenvolvimento de sistemas. 
 - 📫 Contate-me no e-mail: cibele.veras36@gmail.com
 - 😄 Pronouns: ela/dela
 
