@@ -34,6 +34,5 @@
 </div>
   
   
-  ![Snake animation](https://github.com/Cibele-Veras36/Cibele-Veras36/blob/output/github-contribution-grid-snake.svg)
  
   
