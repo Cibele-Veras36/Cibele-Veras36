@@ -1,6 +1,6 @@
 ### Olá! eu sou a Cibele Veras.
 
-- 🔭 Hoje trabalho com teste de software (QA).
+- 🔭 Sou Quality Assurance Enginner JR.
 - 🌱 Estudando Analise e desenvolvimento de sistemas. 
 - 📫 Contate-me no e-mail: cibele.veras36@gmail.com
 - 😄 Pronouns: ela/dela
