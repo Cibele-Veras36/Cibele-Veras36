@@ -1,6 +1,6 @@
 ### Olá! eu sou a Cibele Veras.
 
-- 🔭 Sou Quality Assurance Enginner JR.
+- 🔭 i'm Quality Assurance Engineer JR.
 - 🌱 Estudando Analise e desenvolvimento de sistemas. 
 - 📫 Contate-me no e-mail: cibele.veras36@gmail.com
 - 😄 Pronouns: ela/dela
@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/Cibele-Veras36">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Cibele-Veras36&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="139em" src="https://github-readme-stats.vercel.app/api?username=Cibele-Veras36&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cibele-Veras36&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
  
