@@ -1,7 +1,7 @@
 ### Olá! eu sou a Cibele Veras.
 
-- 🔭 i'm Quality Assurance JR.
-- 🌱 Estudando Analise e desenvolvimento de sistemas. 
+- 🔭 Analista de testes Júnior.
+- 🌱 Formanda em Análise e Desenvolvimento de Sistemas 
 - 📫 Contate-me no e-mail: cibele.veras36@gmail.com
 - 😄 Pronouns: ela/dela
 
