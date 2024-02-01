@@ -1,6 +1,6 @@
 ### Olá! eu sou a Cibele Veras.
 
-- 🔭 Analista de testes Júnior.
+- 🔭 Analista de qualidade de produto Júnior.
 - 🌱 Formada em Análise e Desenvolvimento de Sistemas 
 - 📫 Contate-me no e-mail: cibele.veras36@gmail.com
 - 😄 Pronouns: ela/dela
